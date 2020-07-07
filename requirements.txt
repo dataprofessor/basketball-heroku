@@ -4,4 +4,4 @@ lxml==4.5.1
 numpy==1.18.1
 seaborn==0.10.0
 matplotlib
-base64
+base58
